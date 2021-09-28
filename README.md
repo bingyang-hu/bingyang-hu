@@ -2,6 +2,7 @@
 - 🔭 I’m currently a data analyst.
 - 😄 Pronouns: They, their
 - 👯 I’m looking for opportunities as Software Engineer or Data Analyst.
+- ⚡ Fun fact: I am a languages lover, not only for CS language but also human languages! Working on Spanish now. 
 
 <!--
 **bingyang-hu/bingyang-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
