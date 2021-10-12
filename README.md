@@ -3,6 +3,12 @@
 - 😄 Pronouns: They, their
 - 👯 I’m looking for opportunities as Software Engineer or Data Analyst.
 - 🧑‍🎓 Fun fact: I am a languages lover, not only for CS language but also human languages! Working on Spanish now. 
+- My technical skills:
+  + **Programming**: Java, JavaScript, Python, C
+  + **Databases and Cloud**: MySQL, MSSQL, AWS EC2
+  + **Web Development**: Java Servlet, Node.js, Django, HTML, CSS, React
+  + **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Clustering, Association Rule Learning
+
 
 <!--
 **bingyang-hu/bingyang-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
