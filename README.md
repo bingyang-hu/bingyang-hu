@@ -11,6 +11,10 @@
   + **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Clustering, Association Rule Learning
   + **Others**: Tableau,R
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bingyang-hu&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bingyang-hu&layout=compact)](https://github.com/bingyang-hu/github-readme-stats)
+
 
 <!--
 **bingyang-hu/bingyang-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
