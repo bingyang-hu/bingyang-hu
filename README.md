@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I am a languages lover, not only for CS language but also human languages! Working on Spanish and Japanese now.
 - 👯 I’m looking for opportunities as a Software Engineer or Data Analyst.
 - My technical skills:
-  + **Programming**: Java, JavaScript, Python, C
-  + **Databases and Cloud**: MySQL, MSSQL, AWS EC2
+  + **Programming**: Python, Java, JavaScript
+  + **Databases and Cloud**: PostgreSQL, MSSQL, AWS EC2
   + **Web Development**: Java Servlet, Node.js, Django, HTML, CSS, React
   + **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Clustering, Association Rule Learning
   + **Others**: Tableau,R
